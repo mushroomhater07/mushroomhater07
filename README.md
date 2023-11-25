@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&" alt="mushroomhater07" /></p>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 
 <!--
 **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
