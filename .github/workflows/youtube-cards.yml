@@ -2,12 +2,15 @@ name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
@@ -16,5 +19,4 @@ jobs:
           # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           youtube_api_key: AIzaSyBWud6h12wRdq3Lc6klrqVpgkHe4EpOt8M
           show_duration: true
-          max_videos: 4
-          output_type: markdown
+          max_videos: 1
