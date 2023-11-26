@@ -49,9 +49,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/idk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="idk" /></a><a href="https://ko-fi.com/idk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="idk" /></a></p><br><br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact" alt="mushroomhater07" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&" alt="mushroomhater07" /></p>
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact" alt="mushroomhater07" />
+  <img   align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&" alt="mushroomhater07" />
 
 
 <!--
