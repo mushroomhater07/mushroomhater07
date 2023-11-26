@@ -1,20 +1,21 @@
 # **Shalify**'s Space
 ``mushroomhater07``
 
-### 📺 Latest YouTube Videos <br/>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Legacy program running on windows 7 / Command.com](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Legacy program running on windows 7 / Command.com")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
 <div align="right">
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" /><br/>
 </div>
 <img align="right" width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
 
+### 📺 Latest YouTube Videos <br/>
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Legacy program running on windows 7 / Command.com](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Legacy program running on windows 7 / Command.com")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
 <!-- END YOUTUBE-CARDS -->
+
 ---
 
 
@@ -49,7 +50,7 @@
 <p><a href="https://www.buymeacoffee.com/idk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="idk" /></a><a href="https://ko-fi.com/idk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="idk" /></a></p><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact" alt="mushroomhater07" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact" alt="mushroomhater07" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&" alt="mushroomhater07" /></p>
 
 
