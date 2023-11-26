@@ -1,15 +1,14 @@
 # **Shalify**'s Space
 ``mushroomhater07``
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
+<div align="right">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
-</p>
+  <img width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
+</div>
 
-<br/>
-### 📺 Latest YouTube Videos<br/>
+### 📺 Latest YouTube Videos <br/>
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
