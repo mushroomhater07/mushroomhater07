@@ -1,3 +1,5 @@
+# Shalify's Space
+**mushroomhater07**
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -18,8 +20,7 @@
 <!-- END YOUTUBE-CARDS -->
 ---
 
-<h1 align="center">Shalify's SPACE #mushroomhater</h1>
-<h3 align="center">Hii</h3>
+
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat" alt="mushroomhater07" /> 
@@ -36,7 +37,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
