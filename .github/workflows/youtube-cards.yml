@@ -20,3 +20,4 @@ jobs:
           youtube_api_key: AIzaSyBWud6h12wRdq3Lc6klrqVpgkHe4EpOt8M
           show_duration: true
           max_videos: 1
+          output_type: html
