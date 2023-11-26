@@ -16,11 +16,7 @@
 [![Red Star OS 2.0 - North Korea computing - Windows 7 icon with XP application](https://ytcards.demolab.com/?id=LxM8GEF4FpE&title=Red+Star+OS+2.0+-+North+Korea+computing+-+Windows+7+icon+with+XP+application&lang=en&timestamp=1617977675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=622 "Red Star OS 2.0 - North Korea computing - Windows 7 icon with XP application")](https://www.youtube.com/watch?v=LxM8GEF4FpE)
 [![Windows 10 Xbox wallpaper](https://ytcards.demolab.com/?id=b3j2s5Raevc&title=Windows+10+Xbox+wallpaper&lang=en&timestamp=1617977675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=164 "Windows 10 Xbox wallpaper")](https://www.youtube.com/watch?v=b3j2s5Raevc)
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
+---
 
 <h1 align="center">Hi 👋, I'm Shalev</h1>
 <h3 align="center">Hii</h3>
