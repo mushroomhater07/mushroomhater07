@@ -1,5 +1,5 @@
-# Shalify's Space
-**mushroomhater07**
+# **Shalify**'s Space
+``mushroomhater07``
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
