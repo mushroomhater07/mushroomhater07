@@ -2,7 +2,7 @@
 ``mushroomhater07``
 
 <div align="right">
-  Visitor count<br>
+  Visitor count<br/>
   <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
   <img width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
 </div>
