@@ -1,7 +1,7 @@
 # **Shalify**'s Space
 ``mushroomhater07``
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img align="right" width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -20,8 +20,6 @@
 <!-- END YOUTUBE-CARDS -->
 ---
 
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat" alt="mushroomhater07" /> 
 
