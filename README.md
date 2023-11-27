@@ -2,7 +2,6 @@
 ![Visitor](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mushroomhater07/mushroomhater07?style=for-the-badge)
 
-
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 
 [![rishavchanda](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/idk) 
