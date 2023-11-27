@@ -1,7 +1,7 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 
-<h3 align="right">Visitor count</h3>
+<pre align="right">Visitor count</pre>
 <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
