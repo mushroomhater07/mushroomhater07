@@ -3,7 +3,9 @@
   <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
   <a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
 </p>
+
 ---
+
 <p align="right">
     Visitor count<br /> <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
     <br />
