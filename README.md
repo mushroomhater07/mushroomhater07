@@ -1,4 +1,6 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
+<img alt="mushroomhater07" src="https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat" />
+
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a><br>
@@ -68,7 +70,12 @@
   </a> <a href="https://unity.com/" rel="noreferrer" target="_blank">
     <img alt="unity" height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /> </a>
 </p>  
-  <!--
+
+
+
+<!--    <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>-->
+
+<!-- 
   **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
