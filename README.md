@@ -7,8 +7,8 @@
 <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/>
 
 <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
-<a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
-<a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
+<a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=linkedin&style=for-the-badge"></a> <br>
+<a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=youtube&style=for-the-badge"></a> <br>
 <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
 <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
