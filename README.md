@@ -1,5 +1,5 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
-![Buy Coffee](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat)
+<!--https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat-->
 ![GitHub Repo stars](https://img.shields.io/github/stars/mushroomhater07/mushroomhater07?style=for-the-badge)
 
 
