@@ -4,11 +4,9 @@
 <h3 align="right">Visitor count</h3>
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 
-<p align="left">
-  <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a>
-  <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
+<a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> <br>
+<a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a> <br>
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
-</p>
 
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/> -->
