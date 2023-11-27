@@ -1,7 +1,7 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 ### About me
-<p align="right">
+<p align="right" display="inline-block">
     Visitor count<br /> <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
     <br />
     <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400" />
