@@ -7,9 +7,11 @@
 <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="300px"/>
 
 [![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)](https://twitter.com/rishavchanda)  
-[![rishavchanda](https://img.shields.io/twitter/follow/hheylau?logo=linkedin&style=for-the-badge)](https://twitter.com/rishavchanda)  
-[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
-[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=whatsapp&style=for-the-badge)](https://twitter.com/rishavchanda)
+[![rishavchanda](https://img.shields.io/twitter/follow/shalevl?logo=linkedin&style=for-the-badge)](https://twitter.com/rishavchanda)  
+[![rishavchanda](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
+[![rishavchanda](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
+[![rishavchanda](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
+[![rishavchanda](https://img.shields.io/twitter/follow/me?logo=whatsapp&style=for-the-badge)](https://twitter.com/rishavchanda)
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
 
 
