@@ -5,7 +5,8 @@
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 
-![][https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png][https://www.buymeacoffee.com/idk]
+![][][]
+[![alt](https://www.buymeacoffee.com/idk)](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
 
 <a href="><img alt="idk" height="50" src="" /></a><br>
 <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/>
