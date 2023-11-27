@@ -4,6 +4,12 @@
   <a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
 </p>
 
+ <p align="right">
+    Visitor count<br /> <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
+    <br />
+    <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400" />
+  </p>
+
 
 ### 📺 Latest YouTube Videos 
 <a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a>
