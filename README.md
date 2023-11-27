@@ -9,10 +9,7 @@
 
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/> -->
-<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img align="right" src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a>
-hi
-
-### 📺 Latest YouTube Videos 
+<h3> 📺 Latest YouTube Videos <a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a></h3>
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=HvvjLYtmNUg"><img src="https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529" alt="Legacy program running on windows 7 / Command.com" title="Legacy program running on windows 7 / Command.com"></a>
 <!-- END YOUTUBE-CARDS -->
