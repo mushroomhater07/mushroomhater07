@@ -9,7 +9,7 @@
 
 
 
-
+<img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/>
 ### 📺 Latest YouTube Videos 
 <a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a>
 <br>
