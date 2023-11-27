@@ -1,16 +1,16 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 ### About me
-
-<a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
-<br>
-<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
-
 <p align="right">
     Visitor count<br /> <img src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
     <br />
     <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400" />
 </p>
+<a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
+<br>
+<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
+
+
 
 
 ### 📺 Latest YouTube Videos 
