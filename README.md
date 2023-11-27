@@ -2,7 +2,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/idk"><img align="left" alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
   <a href="https://ko-fi.com/idk"><img align="left" alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
-</p>
+</p><p></p>
 
 ---
 ### 📺 Latest YouTube Videos 
