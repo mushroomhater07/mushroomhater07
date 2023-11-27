@@ -5,15 +5,14 @@
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a><br>
 <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="300px"/>
+<!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)](https://twitter.com/rishavchanda)  -->
+<!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
 
-[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)](https://twitter.com/rishavchanda)  
 [![rishavchanda](https://img.shields.io/twitter/follow/shalevl?logo=linkedin&style=for-the-badge)](https://twitter.com/rishavchanda)  
 [![rishavchanda](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
 [![rishavchanda](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
 [![rishavchanda](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://twitter.com/rishavchanda)  
 [![rishavchanda](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://twitter.com/rishavchanda)
-<!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
-
 
 ---
 ### 📺 Latest YouTube Videos [![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
