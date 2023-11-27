@@ -19,5 +19,5 @@ jobs:
           # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           youtube_api_key: AIzaSyBWud6h12wRdq3Lc6klrqVpgkHe4EpOt8M
           show_duration: true
-          max_videos: 1
+          max_videos: 3
           output_type: markdown
