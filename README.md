@@ -4,7 +4,7 @@
   <a href="https://ko-fi.com/idk"><img align="left" alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
 </p>
 
-<hr/>
+---
 ### 📺 Latest YouTube Videos 
 <a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a>
 <br>
