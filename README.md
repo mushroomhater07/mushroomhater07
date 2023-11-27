@@ -1,4 +1,9 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
+<p>
+  <a href="https://www.buymeacoffee.com/idk"><img align="left" alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
+  <a href="https://ko-fi.com/idk"><img align="left" alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
+</p>
+
 
 ### 📺 Latest YouTube Videos 
 <a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" /></a>
