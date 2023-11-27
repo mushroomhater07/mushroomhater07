@@ -1,5 +1,6 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
+<img align="right" src="https://raw.githubusercontent.com/mushroomhater07/mushroomhater07/main/my-Visitor%20Counter_.png">
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://twitter.com/rishavchanda" target="blank"><img alt="rishavchanda" src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge"></a> 
 <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400px"/>
