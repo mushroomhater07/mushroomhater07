@@ -8,11 +8,11 @@
 <!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
 
-[![rishavchanda](https://img.shields.io/twitter/follow/shalevl?logo=linkedin&style=for-the-badge)]()
-[![rishavchanda](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)]()
-[![rishavchanda](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)]()
-[![rishavchanda](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)]()
-[![rishavchanda](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://twitter.com/rishavchanda)
+[![linkedin](https://img.shields.io/twitter/follow/shalevl?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shalevl)
+[![youtube techey](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
+[![youtube gallantlad](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
+[![youtube gamydaily](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
+[![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 
 ---
 ### 📺 Latest YouTube Videos  - [![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
