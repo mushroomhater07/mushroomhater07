@@ -1,7 +1,7 @@
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 ![Visitor](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mushroomhater07/mushroomhater07?style=for-the-badge)
-[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
+[![](https://custom-icon-badges.demolab.com/badge/-General%20CV-orange?style=for-the-badge&logo=video&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://custom-icon-badges.demolab.com/badge/-Tech%20CV-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
