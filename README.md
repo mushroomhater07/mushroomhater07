@@ -16,6 +16,8 @@
 [![youtube gamydaily](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=stackoverflow&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
+[![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=medium&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
+[![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=devto&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 
 ---
 ### 📺 Latest YouTube Videos  - [![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
