@@ -12,7 +12,7 @@
 
 [![linkedin](https://img.shields.io/twitter/follow/shalevl?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shalevl)
 [![youtube techey](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
-[![youtube gallantlad](https://img.shields.io/badge/gallantlad?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
+[![youtube gallantlad](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
 [![youtube gamydaily](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=stackoverflow&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
