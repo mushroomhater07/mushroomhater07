@@ -4,6 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge)
 ![Visitor](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=0e75b6&style=flat)
 
+<hr>
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://www.buymeacoffee.com/idk"><img alt="idk" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a><br>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
