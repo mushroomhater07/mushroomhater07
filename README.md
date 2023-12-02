@@ -37,66 +37,47 @@
 </p>
 
 ### Skills
-<p align="left"><a href="https://www.arduino.cc/" rel="noreferrer" target="_blank">
-  <img alt="arduino" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /> </a>
-  <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank">
-    <img alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /> </a>
-  <a href="https://www.w3schools.com/cs/" rel="noreferrer" target="_blank">
-    <img alt="csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  </a> <a href="https://www.docker.com/" rel="noreferrer" target="_blank">
-    <img alt="docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  </a> <a href="https://flask.palletsprojects.com/" rel="noreferrer" target="_blank">
-    <img alt="flask" height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
-  </a> <a href="https://git-scm.com/" rel="noreferrer" target="_blank">
-    <img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /> </a>
-  <a href="https://www.w3.org/html/" rel="noreferrer" target="_blank">
-    <img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  </a> <a href="https://www.java.com" rel="noreferrer" target="_blank">
-    <img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank">
-    <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  </a> <a href="https://kotlinlang.org" rel="noreferrer" target="_blank">
-    <img alt="kotlin" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" />
-  </a> <a href="https://www.linux.org/" rel="noreferrer" target="_blank">
-    <img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  </a> <a href="https://www.mongodb.com/" rel="noreferrer" target="_blank">
-    <img alt="mongodb" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  </a> <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
-    <img alt="mysql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  </a> <a href="https://nodejs.org" rel="noreferrer" target="_blank">
-    <img alt="nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  </a> <a href="https://www.php.net" rel="noreferrer" target="_blank">
-    <img alt="php" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  </a> <a href="https://www.python.org" rel="noreferrer" target="_blank">
-    <img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  </a> <a href="https://www.rust-lang.org" rel="noreferrer" target="_blank">
-    <img alt="rust" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" />
-  </a> <a href="https://www.tensorflow.org" rel="noreferrer" target="_blank">
-    <img alt="tensorflow" height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-  </a> <a href="https://unity.com/" rel="noreferrer" target="_blank">
-    <img alt="unity" height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /> </a>
-</p>  
-<!--
-[![arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)           
-[![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)           
-[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) ](https://www.w3schools.com/cs/)
-[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ](https://www.docker.com/)           
-[![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) ](https://flask.palletsprojects.com/)           
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)           
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)           
-[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com)           
-[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)           
-[![kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) ](https://kotlinlang.org)  
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)           
-[![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)           
-[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/)           
-[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)           
-[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)           
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ](https://www.python.org)           
-[![rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg) ](https://www.rust-lang.org)           
-[![tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ](https://www.tensorflow.org)        
-[![unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)](https://unity.com/)
--->
+[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
+windows
+[![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)
+    [![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
+    
 <!--    <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>-->
 <!-- 
   **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
