@@ -17,7 +17,7 @@
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 [![stackoverflow](https://img.shields.io/twitter/follow/shalev?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/18937221/shalev)
 [![medium](https://img.shields.io/twitter/follow/hheylau?logo=medium&style=for-the-badge)](https://medium.com/@hheylau)
-[![dev.to](https://img.shields.io/twitter/follow/hheylau?logo=dev.to&style=for-the-badge)](https://dev.to/shalev)<br>
+[![dev.to](https://img.shields.io/twitter/follow/hheylau?logo=dev.to&style=for-the-badge)](https://dev.to/shalev)<hr>
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
