@@ -7,6 +7,10 @@
 <br>
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
+.
+<img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
+<!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
+<!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
 
 [![youtube techey](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![youtube gallantlad](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
@@ -14,12 +18,7 @@
 [![whatsapp](https://img.shields.io/twitter/follow/shalev?logo=whatsapp&style=for-the-badge)](https://wa.me/message/P6NZQFT2NOOIG1)
 [![stackoverflow](https://img.shields.io/twitter/follow/shalev?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/18937221/shalev)
 [![medium](https://img.shields.io/twitter/follow/hheylau?logo=medium&style=for-the-badge)](https://medium.com/@hheylau)
-[![dev.to](https://img.shields.io/twitter/follow/hheylau?logo=dev.to&style=for-the-badge)](https://dev.to/shalev)
-
-<img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
-<!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
-<!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
-
+[![dev.to](https://img.shields.io/twitter/follow/hheylau?logo=dev.to&style=for-the-badge)](https://dev.to/shalev)<br>
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
