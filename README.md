@@ -78,7 +78,7 @@
 [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/ASUS-X571GT-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/ASUS-F15_2021-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/ASUS-F15_2021-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)<br>
 [![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://github.com/mushroomhater07)
   [![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://github.com/mushroomhater07)
   [![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://github.com/mushroomhater07)
