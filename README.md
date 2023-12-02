@@ -70,8 +70,8 @@
     [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mushroomhater07)
     [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
-windows
-[![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
+### Spec
+[![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
     [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
     [![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
     [![](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
