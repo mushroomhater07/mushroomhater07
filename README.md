@@ -29,12 +29,13 @@
 [![Windows Media Center Edition 2002](https://ytcards.demolab.com/?id=HgS0L9DK-NI&title=Windows+Media+Center+Edition+2002&lang=en&timestamp=1618018212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931 "Windows Media Center Edition 2002")](https://www.youtube.com/watch?v=HgS0L9DK-NI)
 <!-- END YOUTUBE-CARDS -->
 
-### Github Stats
-<p>
-  <img alt="mushroomhater07" src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast" />
-  <!--    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"&lt;!&ndash;    &hide=stars,commits,prs,issues,contribs&ndash;&gt; />-->
-  <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8" />
-</p>
+<details open>
+<summary>Github Stat</summary><p>
+    <img alt="mushroomhater07" src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast" />
+    <!--    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"&lt;!&ndash;    &hide=stars,commits,prs,issues,contribs&ndash;&gt; />-->
+    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8" />
+</p></details>
+
 
 ### Skills
 [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mushroomhater07)
