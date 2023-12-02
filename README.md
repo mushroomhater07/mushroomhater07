@@ -2,7 +2,7 @@
 [![](https://custom-icon-badges.demolab.com/badge/-General%20CV-orange?style=for-the-badge&logo=video&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://custom-icon-badges.demolab.com/badge/-Tech%20CV-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 ![GitHub followers](https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge)&nbsp; 
-[![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&color=5090CB&style=for-the-badge)](https://github.com/mushroomhater07)
+[![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&style=for-the-badge)](https://github.com/mushroomhater07)
 
 <hr>
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
