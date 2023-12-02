@@ -74,12 +74,12 @@
 [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Windows-ASUS_X571GT-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/ASUS-F15_2021-999999?style=for-the-badge&logo=asus&logoColor=white)](https://github.com/mushroomhater07)
     
 <!--   
 [![](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
-
+[![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>-->
