@@ -6,9 +6,6 @@
 [![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&style=for-the-badge)](https://github.com/mushroomhater07)
 <br>
 
-
-
-<hr>
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" alt=""></a>
 <a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" alt=""></a>
