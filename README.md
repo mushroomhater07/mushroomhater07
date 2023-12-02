@@ -5,12 +5,13 @@
 [![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&style=for-the-badge)](https://github.com/mushroomhater07)
 <br>
 
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
+
 
 <hr>
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
+<a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" alt=""></a>
+<a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" alt=""></a>
+<a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&amp;logo=GitHub-Sponsors&amp;logoColor=#white" alt=""></a>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 <!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
