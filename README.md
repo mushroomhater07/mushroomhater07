@@ -6,7 +6,7 @@
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <img src="https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge" alt="GitHub followers">
-<a href="https://github.com/mushroomhater07"><img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></a>
+<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views">
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 <!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
