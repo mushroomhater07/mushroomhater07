@@ -21,11 +21,7 @@
 
 ---
 <details>
-<summary> <b>
-  
-  📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
-
-</b></summary><p>
+<summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Legacy program running on windows 7 / Command.com](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Legacy program running on windows 7 / Command.com")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
@@ -141,6 +137,8 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 
+  
+📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 [![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
 <a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
