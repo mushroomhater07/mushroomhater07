@@ -6,8 +6,8 @@
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <p>
-<img src="https://img.shields.io/github/followers/mushroomhater07?" alt="GitHub followers">
-<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;" alt="GitHub profile views"></p>
+<img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers">
+<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 </p></details>
 <details><summary> <b>🔗 Links</b></summary><p>
@@ -110,13 +110,13 @@
 </details>
 
 <details><summary><b>📦 Project</b></summary>
-  
+
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
-  
+
 </details>
 
 
@@ -173,18 +173,19 @@
 
 **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  Here are some ideas to get you started:
+Here are some ideas to get you started:
 
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-  
+<img src="https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge" alt="GitHub followers">
+<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
 📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 [![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
