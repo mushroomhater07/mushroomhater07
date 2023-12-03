@@ -89,29 +89,27 @@
 📆 2023 - Present(*2026*)\
 📍 **University of Sheffield** - Sheffield, UK
 </blockquote></p></details>
-<details><summary><b>📦 Project</b></summary><p>
-
+<details><summary><b>📦 Project</b></summary><p><blockquote>
+  
 | Name                 | Short summary                                | Project   | Demo      |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [NH Forum](https://github.com/mushroomhater07/NHS_EPQ) | A PWA forum for New Hall Student exclusively  | [![](https://img.shields.io/badge/project-0071C5)](https://github.com/mushroomhater07/NHS_EPQ) | [![](https://img.shields.io/badge/demo-76B900)](https://nhforum.onrender.com) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
-
-</p></details>
+</blockquote></p></details>
 <details><summary> <b>📈 Github Stat</b></summary><p>
 
 > ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
 
 </p></details>
-<details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p>
+<details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p><blockquote>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Legacy program running on windows 7 / Command.com](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Legacy program running on windows 7 / Command.com")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
 [![chi sp4](https://ytcards.demolab.com/?id=V_MRI4HN4Sw&title=chi+sp4&lang=en&timestamp=1618535842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469 "chi sp4")](https://www.youtube.com/watch?v=V_MRI4HN4Sw)
 [![Windows Media Center Edition 2002](https://ytcards.demolab.com/?id=HgS0L9DK-NI&title=Windows+Media+Center+Edition+2002&lang=en&timestamp=1618018212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931 "Windows Media Center Edition 2002")](https://www.youtube.com/watch?v=HgS0L9DK-NI)
 <!-- END YOUTUBE-CARDS -->
-
-</p></details>
+</blockquote></p></details>
 <details><summary> <b>🖥️ My Current Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA_RTX-3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
