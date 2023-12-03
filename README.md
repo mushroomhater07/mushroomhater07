@@ -28,14 +28,14 @@
 [![Windows Media Center Edition 2002](https://ytcards.demolab.com/?id=HgS0L9DK-NI&title=Windows+Media+Center+Edition+2002&lang=en&timestamp=1618018212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931 "Windows Media Center Edition 2002")](https://www.youtube.com/watch?v=HgS0L9DK-NI)
 <!-- END YOUTUBE-CARDS -->
 <details open>
-<summary> <h3>Github Stat</h3></summary><p>
+<summary> <b>Github Stat</b></summary><p>
 
 > ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
 
 </p></details>
 <details open>
-<summary> <h3>SKills</h3></summary><p>
+<summary> <b>SKills</b></summary><p>
 
 > [![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HTML-%20-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
@@ -68,7 +68,7 @@
 
 </p></details>
 <details open>
-<summary> <h3>Spec</h3></summary><p>
+<summary> <b>Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
