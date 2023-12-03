@@ -42,9 +42,9 @@
     <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8" />
 </p></details>
 <details open>
-<summary> <h3>Github Stat</h3></summary><p>
+<summary> <h3>SKills</h3></summary><p>
 
-[![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
+> [![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HTML-%20-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/CSS-%20-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/.NET-%20-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/mushroomhater07)
