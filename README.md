@@ -119,7 +119,7 @@
 [![](https://img.shields.io/badge/ASUS-X571GT-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/ASUS-F15_2021-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mushroomhater07)<br>
 [![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://github.com/mushroomhater07)
 
 </p></details>
 
