@@ -86,7 +86,7 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Unity%203D-20232A?logo=unity&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 
 
