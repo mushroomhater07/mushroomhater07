@@ -1,6 +1,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalevl)
 [![](https://custom-icon-badges.demolab.com/badge/-General%20CV-orange?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://custom-icon-badges.demolab.com/badge/-Tech%20CV-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
 # **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
@@ -14,10 +15,10 @@
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
 [![](https://img.shields.io/badge/GALLANDLAD-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
-[![](https://img.shields.io/badge/WhatsApp-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
+[![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
+
 
 [![](https://img.shields.io/badge/Medium-%20-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hheylau)
-[![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/STACKOVERFLOW-%20-21759B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18937221/shalev)
