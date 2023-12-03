@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
 
-</p></details>
+</p></details open>
 <details><summary> <b>🪙 Sponser Me</b></summary><p>
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
