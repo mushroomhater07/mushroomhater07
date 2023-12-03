@@ -61,21 +61,24 @@
 [![](https://img.shields.io/badge/Kotlin-%20-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Express.js-%20-404D59?style=for-the-badge)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/jQuery-%20-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Django-%20-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Flask-%20-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/MongoDB-%20-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/SQLite-%20-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Unity-%20-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/MySQL-%20-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
 
-<b>In developing</b><br>
+<b>⌛ In developing</b><br>
 > [![](https://img.shields.io/badge/.NET-%20-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React_Native-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Rust-%20-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/C-%20-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/C%2B%2B-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
 </p></details>
 
 <details><summary><b>📃 Resume</b></summary>
@@ -191,10 +194,8 @@
 [![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Django-%20-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mushroomhater07)
+
 [![](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
