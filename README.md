@@ -18,7 +18,38 @@
 [![](https://img.shields.io/badge/STACKOVERFLOW-%20-21759B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18937221/shalev)
 [![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Patreon-%20-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)-
+[![](https://img.shields.io/badge/Patreon-%20-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/mushroomhater07)-
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)-
@@ -87,9 +118,7 @@
 
 </p></details>
 
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>-->
-<!-- 
-  **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
@@ -105,6 +134,7 @@
 ![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 [![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
 <a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>
 
 [![](https://img.shields.io/badge/GeeksforGeeks-%20-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
@@ -118,42 +148,18 @@
 [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://github.com/mushroomhater07)
-
 [![](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)](https://github.com/mushroomhater07)
-
 [![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://github.com/mushroomhater07)
-
-
 [![](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)](https://github.com/mushroomhater07)
-
 [![](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://github.com/mushroomhater07)
@@ -161,16 +167,6 @@
 [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://github.com/mushroomhater07)
-
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/mushroomhater07)
@@ -181,10 +177,8 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)](https://github.com/mushroomhater07)
+-->
