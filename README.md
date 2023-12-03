@@ -8,7 +8,7 @@
 <p>
 <img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers">
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp" alt="GitHub profile views"></p>
-<img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="20px"/>
+<img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="200px"/>
 </p></details>
 <details><summary> <b>🔗 Links</b></summary><p>
 
