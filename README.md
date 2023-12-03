@@ -96,8 +96,8 @@
 </blockquote></p></details>
 <details><summary> <b>📈 Github Stat</b></summary><p>
 
-> ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
-![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
+> [![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast)](https://github.com/mushroomhater07)
+[![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)](https://github.com/mushroomhater07)
 
 </p></details>
 <details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p><blockquote>
