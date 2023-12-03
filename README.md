@@ -11,7 +11,7 @@
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 </p></details>
 <details>
-<summary> <b>Github Stat</b></summary><p>
+<summary> <b>Links:</b></summary><p>
 
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
@@ -77,7 +77,7 @@
 </p></details>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary><b>📃 Resume</b></summary>
 
 
 ## Education
@@ -179,7 +179,7 @@
 </details>
 
 <details>
-  <summary>📦 Packages</summary>
+  <summary><b>📦 Packages</b></summary>
   
   
 
