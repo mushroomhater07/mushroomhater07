@@ -5,7 +5,7 @@
 # 🐺 **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg"  width="1px" />
-<img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers">
+<p><img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers">
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="250px"/>
 <details><summary> <b>🔗 Links</b></summary><p>
