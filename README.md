@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalevl)
-[![](https://custom-icon-badges.demolab.com/badge/CV%20-General-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
-[![](https://custom-icon-badges.demolab.com/badge/CV%20-Tech-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
+[![](https://custom-icon-badges.demolab.com/badge/CV%20-General-green?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
+[![](https://custom-icon-badges.demolab.com/badge/CV%20-Tech-green?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://img.shields.io/badge/WhatsApp-222?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
 # 🐺 **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
