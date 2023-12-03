@@ -75,13 +75,6 @@
 
 <details><summary><b>📃 Resume</b></summary>
 
-
-## Education
-
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
@@ -145,6 +138,12 @@
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
+
+## Education
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
 </details>
 
 <details><summary><b>📦 Packages</b></summary>
