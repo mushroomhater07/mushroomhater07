@@ -10,8 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 </p></details>
-<details>
-<summary> <b>Links:</b></summary><p>
+<details><summary> <b>Links:</b></summary><p>
 
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
@@ -25,8 +24,7 @@
 
 ---
 
-<details>
-<summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p>
+<details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Legacy program running on windows 7 / Command.com](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Legacy+program+running+on+windows+7+%2F+Command.com&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Legacy program running on windows 7 / Command.com")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
@@ -35,8 +33,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 </p></details>
-<details>
-<summary> <b>Github Stat</b></summary><p>
+<details><summary> <b>Github Stat</b></summary><p>
 
 > ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
@@ -76,8 +73,7 @@
 
 </p></details>
 
-<details>
-  <summary><b>📃 Resume</b></summary>
+<details><summary><b>📃 Resume</b></summary>
 
 
 ## Education
@@ -149,37 +145,9 @@
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
-
-<!--## Skills
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-**Programming**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems**
-
-<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
-
--->
-
 </details>
 
-<details>
-  <summary><b>📦 Packages</b></summary>
+<details><summary><b>📦 Packages</b></summary>
   
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
@@ -190,8 +158,7 @@
 </details>
 
 
-<details>
-<summary> <b>Spec</b></summary><p>
+<details><summary> <b>Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
