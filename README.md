@@ -41,9 +41,9 @@
     <!--    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"&lt;!&ndash;    &hide=stars,commits,prs,issues,contribs&ndash;&gt; />-->
     <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8" />
 </p></details>
+<details open>
+<summary> <h3>Github Stat</h3></summary><p>
 
-
-### Skills
 [![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HTML-%20-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/CSS-%20-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
@@ -72,6 +72,9 @@
 [![](https://img.shields.io/badge/SQLite-%20-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Unity-%20-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/MySQL-%20-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
+
+</p></details>
+
 ### Spec
 [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
