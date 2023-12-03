@@ -9,21 +9,14 @@
 <img src="https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge" alt="GitHub followers">
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
-<!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
-<!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
+
 
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
 [![](https://img.shields.io/badge/GALLANDLAD-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
-[![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Medium-%20-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hheylau)
-[![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/STACKOVERFLOW-%20-21759B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18937221/shalev)
-[![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)
-[![](https://img.shields.io/badge/GeeksforGeeks-%20-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/mushroomhater07)<hr>
-
-
+[![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)<hr>
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
@@ -103,6 +96,13 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 
+[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
+<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
+
+[![](https://img.shields.io/badge/GeeksforGeeks-%20-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
