@@ -83,7 +83,7 @@
 📆 2021 - 2022\
 📍 **Vesta Package** - Chelmsford, UK
 
-### <u>Education</u>
+### <ins>Education</ins>
 
 - 📖 **Computer System Engineering**\
 📆 2023 - Present(*2026*)\
