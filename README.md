@@ -48,7 +48,6 @@
 
 
 ### Skills
-[![](https://img.shields.io/badge/C%23-%20-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HTML-%20-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/CSS-%20-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
