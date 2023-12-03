@@ -83,7 +83,7 @@
 
 <details><summary><b>📃 Resume</b></summary>
 
-### Experience
+### - Experience
 
 <img align="right" src="https://img.shields.io/badge/Unity%203D-20232A?logo=unity&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -101,7 +101,7 @@
 📆 2021 - 2022\
 📍 **Vesta Package** - Chelmsford, UK
 
-### Education
+### - Education
 
 - 📖 **Computer System Engineering**\
 📆 2023 - Present(*2026*)\
