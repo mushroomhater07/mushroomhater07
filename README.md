@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/GALLANDLAD-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
 [![](https://img.shields.io/badge/Medium-%20-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hheylau)
 [![](https://img.shields.io/badge/STACKOVERFLOW-%20-21759B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18937221/shalev)
-[![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)<hr>
+[![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)---
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
