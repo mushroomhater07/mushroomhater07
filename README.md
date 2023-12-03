@@ -63,7 +63,7 @@
 [![](https://img.shields.io/badge/Tailwind_CSS-%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
 </p></details>
 
-<details><summary><b>📃 Resume</b></summary>
+<details><summary><b>📃 Resume</b></summary><blockquote>
 
 ### - Experience
 
@@ -88,7 +88,7 @@
 - 📖 **Computer System Engineering**\
 📆 2023 - Present(*2026*)\
 📍 **University of Sheffield** - Sheffield, UK
-</details>
+</blockquote></details>
 <details><summary><b>📦 Project</b></summary>
 
 | Name                 | Short summary                                | Project   | Demo      |
