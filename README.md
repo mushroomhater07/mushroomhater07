@@ -2,7 +2,7 @@
 [![](https://custom-icon-badges.demolab.com/badge/-General%20CV-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://custom-icon-badges.demolab.com/badge/-Tech%20CV-blue?style=for-the-badge&logo=website&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
 [![](https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
-# **Shalify**'s Space  <sup>`mushroomhater07`</sup>
+# 🐺 **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 <img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg" />
 <p>
@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 </p></details>
-<details><summary> <b>Links</b></summary><p>
+<details><summary> <b>🔗 Links</b></summary><p>
 
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
 
 </p></details>
-<details><summary> <b>Sponser Me</b></summary><p>
+<details><summary> <b>🪙 Sponser Me</b></summary><p>
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
@@ -39,14 +39,14 @@
 <!-- END YOUTUBE-CARDS -->
 
 </p></details>
-<details><summary> <b>Github Stat</b></summary><p>
+<details><summary> <b>📈 Github Stat</b></summary><p>
 
 > ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
 ![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
 
 </p></details>
 <details open>
-<summary> <b>SKills</b></summary><p>
+<summary> <b>🤹 SKills</b></summary><p>
 
 > [![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HTML-%20-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
@@ -117,7 +117,7 @@
 </details>
 
 
-<details><summary> <b>My Current Spec</b></summary><p>
+<details><summary> <b>🖥️ My Current Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
