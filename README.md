@@ -20,6 +20,7 @@
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
 
 ---
+<details>
 <summary> <b>
 
   📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
