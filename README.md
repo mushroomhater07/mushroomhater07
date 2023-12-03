@@ -11,12 +11,9 @@
 <!--[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()-->
 <!--<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>-->
 
-[![youtube techey](https://img.shields.io/twitter/follow/techey?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
-[![youtube gallantlad](https://img.shields.io/twitter/follow/gallantlad?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
-[![youtube gamydaily](https://img.shields.io/twitter/follow/gamydaily?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
-
-[![](https://img.shields.io/badge/YouTube-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/YouTube_Gaming-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
+[![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
+[![](https://img.shields.io/badge/GALLANDLAD-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
 [![](https://img.shields.io/badge/WhatsApp-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
 [![stackoverflow](https://img.shields.io/twitter/follow/shalev?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/18937221/shalev)
 [![medium](https://img.shields.io/twitter/follow/hheylau?logo=medium&style=for-the-badge)](https://medium.com/@hheylau)
