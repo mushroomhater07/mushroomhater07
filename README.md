@@ -108,18 +108,14 @@
 📆 2023 - Present(*2026*)\
 📍 **University of Sheffield** - Sheffield, UK
 </details>
-
 <details><summary><b>📦 Project</b></summary>
 
-| Name                 | A short summary                              | Install   | Downloads |
+| Name                 | A short summary                              | Project   | Demo      |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
-| [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
+| [NH Forum](https://github.com/mushroomhater07/NHS_EPQ) | A PWA forum for New Hall Student exclusively  | [![](https://img.shields.io/badge/project-0071C5)](https://github.com/mushroomhater07/NHS_EPQ) | [![](https://img.shields.io/badge/demo-0071C5)](https://nhforum.onrender.com) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
 
 </details>
-
-
 <details><summary> <b>🖥️ My Current Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
