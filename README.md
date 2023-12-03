@@ -58,17 +58,11 @@
 [![](https://img.shields.io/badge/HTML5-%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/CSS3-%20-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Python-%20-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/C-%20-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/C%2B%2B-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/C%23-%20-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Java-%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/PHP-%20-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Kotlin-%20-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Rust-%20-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Express.js-%20-404D59?style=for-the-badge)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/React-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/React_Native-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/jQuery-%20-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Django-%20-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Flask-%20-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/mushroomhater07)
@@ -76,7 +70,13 @@
 [![](https://img.shields.io/badge/SQLite-%20-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Unity-%20-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/MySQL-%20-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
-
+<b>In developing</b>
+> [![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React_Native-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Rust-%20-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/C-%20-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/C%2B%2B-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mushroomhater07)
 </p></details>
 
 <details><summary><b>📃 Resume</b></summary>
