@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
 <img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="300px"/>
 </p></details>
-<details><summary> <b>Links:</b></summary><p>
+<details><summary> <b>Links</b></summary><p>
 
 [![](https://img.shields.io/badge/TECHEY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1)
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
@@ -19,6 +19,12 @@
 [![](https://img.shields.io/badge/STACKOVERFLOW-%20-21759B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18937221/shalev)
 [![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
+
+</p></details>
+<details><summary> <b>Sponser Me</b></summary><p>
+
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
 
 </p></details>
 
@@ -157,8 +163,6 @@
 [![](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/mushroomhater07)-
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)-
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/mushroomhater07)
