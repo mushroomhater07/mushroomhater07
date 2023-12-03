@@ -110,9 +110,9 @@
 </details>
 <details><summary><b>📦 Project</b></summary>
 
-| Name                 | A short summary                              | Project   | Demo      |
+| Name                 | Short summary                                | Project   | Demo      |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [NH Forum](https://github.com/mushroomhater07/NHS_EPQ) | A PWA forum for New Hall Student exclusively  | [![](https://img.shields.io/badge/project-0071C5)](https://github.com/mushroomhater07/NHS_EPQ) | [![](https://img.shields.io/badge/demo-0071C5)](https://nhforum.onrender.com) |
+| [NH Forum](https://github.com/mushroomhater07/NHS_EPQ) | A PWA forum for New Hall Student exclusively  | [![](https://img.shields.io/badge/project-0071C5)](https://github.com/mushroomhater07/NHS_EPQ) | [![](https://img.shields.io/badge/demo-76B900)](https://nhforum.onrender.com) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
 
 </details>
