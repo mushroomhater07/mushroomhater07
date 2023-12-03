@@ -72,13 +72,13 @@
 [![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React_Native-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/React_Router-%20-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Vue.js-%20-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Angular-%20-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Rust-%20-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/C-%20-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/C%2B%2B-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Tailwind_CSS-%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
 </p></details>
 
 <details><summary><b>📃 Resume</b></summary>
