@@ -16,8 +16,6 @@
 [![](https://img.shields.io/badge/GAMYDAILY-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdNHtSI0GLUIZoPFvfOuSHw?sub_confirmation=1)
 [![](https://img.shields.io/badge/GALLANDLAD-%20-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCIbwKemBCsBcIz7S9DW3fKQ?sub_confirmation=1)
 [![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
-
-
 [![](https://img.shields.io/badge/Medium-%20-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hheylau)
 [![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
