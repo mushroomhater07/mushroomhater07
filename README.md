@@ -63,7 +63,7 @@
 [![](https://img.shields.io/badge/Tailwind_CSS-%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mushroomhater07)
 </p></details>
 
-<details><summary><b>📃 Resume</b></summary><blockquote>
+<details><summary><b>📃 Resume</b></summary><p><blockquote>
 
 ### - Experience
 
@@ -88,15 +88,15 @@
 - 📖 **Computer System Engineering**\
 📆 2023 - Present(*2026*)\
 📍 **University of Sheffield** - Sheffield, UK
-</blockquote></details>
-<details><summary><b>📦 Project</b></summary>
+</blockquote></p></details>
+<details><summary><b>📦 Project</b></summary><p>
 
 | Name                 | Short summary                                | Project   | Demo      |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [NH Forum](https://github.com/mushroomhater07/NHS_EPQ) | A PWA forum for New Hall Student exclusively  | [![](https://img.shields.io/badge/project-0071C5)](https://github.com/mushroomhater07/NHS_EPQ) | [![](https://img.shields.io/badge/demo-76B900)](https://nhforum.onrender.com) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
 
-</details>
+</p></details>
 <details><summary> <b>📈 Github Stat</b></summary><p>
 
 > ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
