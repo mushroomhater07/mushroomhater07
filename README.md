@@ -69,8 +69,8 @@
 [![](https://img.shields.io/badge/MySQL-%20-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mushroomhater07)
 
 <b>In developing</b><br>
-[![](https://img.shields.io/badge/.NET-%20-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/mushroomhater07)
-> [![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
+> [![](https://img.shields.io/badge/.NET-%20-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/Markdown-%20-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/React_Native-%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Rust-%20-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/mushroomhater07)
