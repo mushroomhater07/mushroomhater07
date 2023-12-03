@@ -20,10 +20,10 @@
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-%20-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)-
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
+[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/mushroomhater07)-
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/mushroomhater07)
-[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://github.com/mushroomhater07)
 
 ---
