@@ -100,7 +100,7 @@
 📍 **University of Sheffield** - Sheffield, UK
 </details>
 
-<details><summary><b>📦 Packages</b></summary>
+<details><summary><b>📦 Project</b></summary>
   
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
@@ -111,7 +111,7 @@
 </details>
 
 
-<details><summary> <b>Spec</b></summary><p>
+<details><summary> <b>My Current Spec</b></summary><p>
 
 > [![](https://img.shields.io/badge/NVIDIA-GTX3070%20Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mushroomhater07)
