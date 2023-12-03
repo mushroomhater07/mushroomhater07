@@ -37,9 +37,10 @@
 
 <details open>
 <summary> <h3>Github Stat</h3></summary><p>
-    <img alt="mushroomhater07" src="https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast" />
-    <!--    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"&lt;!&ndash;    &hide=stars,commits,prs,issues,contribs&ndash;&gt; />-->
-    <img alt="mushroomhater07" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8" />
+
+> ![mushroomhater07](https://github-readme-streak-stats.herokuapp.com/?user=mushroomhater07&theme=highcontrast) 
+![mushroomhater07](https://github-readme-stats.vercel.app/api/top-langs?username=mushroomhater07&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=c%2B%2B,c,shaderlab&theme=highcontrast&langs_count=8)
+
 </p></details>
 <details open>
 <summary> <h3>SKills</h3></summary><p>
@@ -102,6 +103,7 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 
+![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 [![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
 <a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
 
