@@ -4,10 +4,10 @@
 [![](https://img.shields.io/badge/WhatsApp-222?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
 # 🐺 **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
-<img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg"  width="1px" />
-<p><img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers">
-<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp" alt="GitHub profile views"></p>
-<img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="250px"/>
+<a href="https://github.com/mushroomhater07"><img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg"  width="1px" /></a>
+<p><a href="https://github.com/mushroomhater07"><img src="https://img.shields.io/github/followers/mushroomhater07" alt="GitHub followers"></a>
+<a href="https://github.com/mushroomhater07"><img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp" alt="GitHub profile views"></a></p>
+<a href="https://github.com/mushroomhater07"><img align="right" src="https://github.com/mushroomhater07/mushroomhater07/blob/main/banner.png?raw=true" width="250px"/></a>
 
 <details><summary> <b>🔗 Links</b></summary><p>
 
