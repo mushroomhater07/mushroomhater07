@@ -124,7 +124,6 @@
 <details><summary> <b>Debug</b></summary><p>
 
 📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
-[![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-%20-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://github.com/mushroomhater07)
@@ -206,8 +205,9 @@
 [![](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)](https://github.com/mushroomhater07)
 [![GitHub followers](https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge)](https://github.com/mushroomhater07)
 [![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&style=for-the-badge)](https://github.com/mushroomhater07)
-[![idk](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/idk)
 [![mushroomhater07](https://github-profile-trophy.vercel.app/?username=mushroomhater07)](https://github.com/ryo-ma/github-profile-trophy)
+[![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ](https://github.com/mushroomhater07)
+[![idk](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/idk)
 </p></details>
 
 
