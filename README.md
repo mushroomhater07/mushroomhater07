@@ -84,7 +84,7 @@
 
 ### <ins>Education</ins>
 
-<img align="right" src="https://img.shields.io/badge/c-cc0000?logo=c&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 
 - 📖 **Computer System Engineering**\
 📆 2023 - Present(*2026*)\
