@@ -121,9 +121,10 @@
 [![](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://github.com/mushroomhater07)
 
 </p></details>
+<details><summary> <b>Debug</b></summary><p>
 
-<!--  
-
+📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
+[![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Patreon-%20-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://github.com/mushroomhater07)
@@ -161,34 +162,11 @@
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://github.com/mushroomhater07)
-
-**mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge" alt="GitHub followers">
-<img src="https://komarev.com/ghpvc/?username=mushroomhater07&amp;label=Profile%20views&amp;style=for-the-badge" alt="GitHub profile views"></p>
-📺 Latest YouTube <sup>`techey`</sup> Videos&nbsp;&ensp;&emsp;[![](https://custom-icon-badges.demolab.com/badge/-Subscribe%20Now-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1) 
-![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
-[![rishavchanda](https://img.shields.io/twitter/follow/rishavchanda?logo=X&style=for-the-badge)]()
-<a href="https://ko-fi.com/idk"><img alt="idk" height="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="210" /></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="mushroomhater07" src="https://github-profile-trophy.vercel.app/?username=mushroomhater07" /></a>
-
 [![](https://img.shields.io/badge/GeeksforGeeks-%20-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Blogger-%20-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Twitch-%20-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Django-%20-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mushroomhater07)
-
 [![](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mushroomhater07)
@@ -226,4 +204,24 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/mushroomhater07)
 [![](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)](https://github.com/mushroomhater07)
+[![GitHub followers](https://img.shields.io/github/followers/mushroomhater07?style=for-the-badge)](https://github.com/mushroomhater07)
+[![GitHub profile views](https://komarev.com/ghpvc/?username=mushroomhater07&label=Profile%20views&style=for-the-badge)](https://github.com/mushroomhater07)
+[![idk](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/idk)
+[![mushroomhater07](https://github-profile-trophy.vercel.app/?username=mushroomhater07)](https://github.com/ryo-ma/github-profile-trophy)
+</p></details>
+
+
+<!--  
+**mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
