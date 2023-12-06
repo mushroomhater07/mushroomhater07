@@ -208,10 +208,8 @@
 [![mushroomhater07](https://github-profile-trophy.vercel.app/?username=mushroomhater07)](https://github.com/ryo-ma/github-profile-trophy)
 [![mushroomhater07](https://github-readme-stats.vercel.app/api?username=mushroomhater07&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ](https://github.com/mushroomhater07)
 [![idk](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/idk)
-</p></details>
 
-
-<!--  
+<details><summary> <b>Debug</b></summary><blockquote><p>
 **mushroomhater07/mushroomhater07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -224,4 +222,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Don’t forget to delete this placeholder text 🙃
+
+Here are some ideas of what you can tell your potential sponsors:
+- [ ] Who are you, and where are you from?
+- [ ] What are you working on?
+- [ ] Why is their sponsorship important? How will you use the funds?
+
+Hint: You can include images and emojis in your bio!
+</p></p>blockquote></details>
+</p></details>
