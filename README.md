@@ -1,7 +1,7 @@
-[![](https://custom-icon-badges.demolab.com/badge/CV%20-General-green?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
-[![](https://custom-icon-badges.demolab.com/badge/CV%20-Tech-green?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
-[![](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalevl)
-[![](https://img.shields.io/badge/WhatsApp-222?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
+
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hheylau)
+[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hheylau?public_mode=true)
+[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/mushroomhater07)
 # 🐺 **Shalify**'s Space  <sup>`mushroomhater07`</sup>
 
 <a href="https://github.com/mushroomhater07"><img align="right" src="https://profile-counter.glitch.me/mushroomhater07/count.svg"  width="1px" /></a>
@@ -19,11 +19,12 @@
 [![](https://img.shields.io/badge/dev.to-%20-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shalev)
 [![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mushroomhater07.itch.io)
 </p></details>
-<details open><summary> <b>🪙 Sponsor Me</b></summary><p>
+<details open><summary> <b>🪙 Connect w/ Me</b></summary><p>
 
-> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hheylau)
-[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hheylau?public_mode=true)
-[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/mushroomhater07)
+> [![](https://custom-icon-badges.demolab.com/badge/CV%20-General-green?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/11c3CWUpaBZIaUYwNuOrklpLIdVHq2MZn/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
+[![](https://custom-icon-badges.demolab.com/badge/CV%20-Tech-green?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1TC1KyfQJxq1iZcFKQfhNNag4RAZk3iVG/edit?usp=sharing&ouid=103100896878843993450&rtpof=true&sd=true) 
+[![](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalevl)
+[![](https://img.shields.io/badge/WhatsApp-222?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/P6NZQFT2NOOIG1)
 </p></details>
 
 ## Do you like my projects? [Nominate me to Github Stars ⭐](https://stars.github.com/nominate/)
