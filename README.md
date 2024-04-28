@@ -107,7 +107,9 @@
 <details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p><blockquote>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Run MS DOS 16-bit application natively on Windows 7 | No NTVDM | No VM](https://ytcards.demolab.com/?id=HvvjLYtmNUg&title=Run+MS+DOS+16-bit+application+natively+on+Windows+7+%7C+No+NTVDM+%7C+No+VM&lang=en&timestamp=1618585213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1529 "Run MS DOS 16-bit application natively on Windows 7 | No NTVDM | No VM")](https://www.youtube.com/watch?v=HvvjLYtmNUg)
+[![New Update! Windows XP SP4 working in 2021?](https://ytcards.demolab.com/?id=V_MRI4HN4Sw&title=New+Update%21+Windows+XP+SP4+working+in+2021%3F&lang=en&timestamp=1618535842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469 "New Update! Windows XP SP4 working in 2021?")](https://www.youtube.com/watch?v=V_MRI4HN4Sw)
+[![Do 19 years of Windows Media Centre Edition survived in 2021?](https://ytcards.demolab.com/?id=HgS0L9DK-NI&title=Do+19+years+of+Windows+Media+Centre+Edition+survived+in+2021%3F&lang=en&timestamp=1618018212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931 "Do 19 years of Windows Media Centre Edition survived in 2021?")](https://www.youtube.com/watch?v=HgS0L9DK-NI)
 <!-- END YOUTUBE-CARDS -->
 </blockquote></p></details>
 <details><summary> <b>🖥️ My Current Spec</b></summary><p>
