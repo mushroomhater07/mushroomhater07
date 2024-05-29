@@ -107,9 +107,9 @@
 <details><summary> <b>📺 Latest YouTube <sup><code>techey</code></sup> Videos&nbsp;&ensp;&emsp;<a href="https://www.youtube.com/channel/UCjEmFOU-tx1TJpxln4aZD5g?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" alt=""></a></b></summary><p><blockquote>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Project IDX - Google's online AI vscode alternative?](https://ytcards.demolab.com/?id=mVXjBBQwWVo&title=Project+IDX+-+Google%27s+online+AI+vscode+alternative%3F&lang=en&timestamp=1716919683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1675 "Project IDX - Google's online AI vscode alternative?")](https://www.youtube.com/watch?v=mVXjBBQwWVo)
-[![We become what we behold](https://ytcards.demolab.com/?id=BA9TJD75oJ8&title=We+become+what+we+behold&lang=en&timestamp=1716918451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=826 "We become what we behold")](https://www.youtube.com/watch?v=BA9TJD75oJ8)
-[![schim playtest](https://ytcards.demolab.com/?id=xuKwzpM64Cw&title=schim+playtest&lang=en&timestamp=1716916928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360 "schim playtest")](https://www.youtube.com/watch?v=xuKwzpM64Cw)
+[![We become what we behold](https://ytcards.demolab.com/?id=BA9TJD75oJ8&title=We+become+what+we+behold&lang=en&timestamp=1716962657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821 "We become what we behold")](https://www.youtube.com/watch?v=BA9TJD75oJ8)
+[![schim playtest](https://ytcards.demolab.com/?id=xuKwzpM64Cw&title=schim+playtest&lang=en&timestamp=1716961681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1353 "schim playtest")](https://www.youtube.com/watch?v=xuKwzpM64Cw)
+[![28 May](https://ytcards.demolab.com/?id=U2P_Dr_uukA&title=28+May&lang=en&timestamp=1716960248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2021 "28 May")](https://www.youtube.com/watch?v=U2P_Dr_uukA)
 <!-- END YOUTUBE-CARDS -->
 </blockquote></p></details>
 <details><summary> <b>🖥️ My Current Spec</b></summary><p>
